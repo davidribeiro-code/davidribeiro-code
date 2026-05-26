@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm David Abel Ribeiro 👋
 
-<!--
-**davidribeiro-code/davidribeiro-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Python & Web Development
 
-Here are some ideas to get you started:
+Passionate about technology, digital systems, and building real-world projects.  
+Currently focused on Python, web development, Linux, and improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- Python
+- HTML & CSS
+- JavaScript
+- Linux (Ubuntu)
+- Git & GitHub
+- VS Code / PyCharm
+
+---
+
+### 🎯 Current Focus
+
+- Building practical coding projects
+- Improving English communication
+- Learning software architecture fundamentals
+- Growing in web development and automation
+
+---
+
+### 📊 GitHub Stats
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidribeiro-code&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidribeiro-code&layout=compact&theme=tokyonight)
